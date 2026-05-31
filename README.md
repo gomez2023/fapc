@@ -284,4 +284,4 @@ Aviso: toda alteracao no nucleo de avaliacao juridica (`avaliar_prisao_preventiv
 
 Academica — uso livre com atribuicao.
 
-Contato: assisemerson934@gmail.com | LinkedIn: https://linkedin.com/in/emerson-gomez | GitHub: https://github.com/gomez2023
+LinkedIn: https://linkedin.com/in/emerson-gomez | GitHub: https://github.com/gomez2023
